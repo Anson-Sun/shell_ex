@@ -1,0 +1,16 @@
+--2020-04-12 21:29:31--  http://image.baidu.com/search/detail?ct=503316480
+Resolving image.baidu.com (image.baidu.com)... 180.97.33.134
+Connecting to image.baidu.com (image.baidu.com)|180.97.33.134|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://image.baidu.com [following]
+--2020-04-12 21:29:31--  http://image.baidu.com/
+Reusing existing connection to image.baidu.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘detail?ct=503316480’
+
+     0K .......... .......... .......... .......... .......... 1.18M
+    50K .......... ..                                          39.6M=0.04s
+
+2020-04-12 21:29:31 (1.47 MB/s) - ‘detail?ct=503316480’ saved [64148]
+
